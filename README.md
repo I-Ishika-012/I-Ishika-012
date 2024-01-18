@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ishika Dutta
 ## Tech Enthusiast| Learner | Explorer | CompSci Major
-- 🔭 I’m currently working on a Highly Classified Project *shh*
+- 🔭 I’m currently working on a Highly Classified Project *\*shh!!\**
 - 🌱 I’m currently learning Python, web dev, data structures and algorithms
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -26,7 +26,7 @@
 </p>
 <br/>
 
-## 🧰 Frameworks:
+## 💻 Frameworks:
 <p>
   <img  height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"style="vertical-align:top; margin:4px>
 <img  height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="vertical-align:top; margin:4px" />
@@ -34,7 +34,7 @@
 </p>
 <br/>
 
-## 🧰 Tools:
+## ⚒️ Tools:
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="vertical-align:top; margin:4px">
