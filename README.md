@@ -1,9 +1,14 @@
 ### Hi there 👋, I'm Ishika Dutta
 ## Tech Enthusiast| Learner | Explorer | CompSci Major
 - 🔭 I’m currently working on a Highly Classified Project *\*shh!!\**
+
 - 🌱 I’m currently learning Python, web dev, data structures and algorithms
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+   <!--dvd
+  👯 I’m looking to collaborate on ...
+  🤔 I’m looking for help with ...
+  -->
+
+      
 - 💬 Ask me about React, Redux, Node js, Express js, Mongodb, mongoose, Javascript, TypeScript, MERN Stack, HTML/CSS
 - 📫 How to reach me: i.ishikadutta@gmail.com
 - 😄 Pronouns: She/Her
