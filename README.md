@@ -28,7 +28,7 @@
 
 <h3 align="left">💬Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/IshikaInnovates" target="blank"><img align="center" src="https://github.com/I-Ishika-012/I-Ishika-012/blob/main/resources/Twitter%20X%20Icon%20PNG.jpeg" width="40" /></a>
+<a href="https://twitter.com/IshikaInnovates" target="blank"><img align="center" src=https://github.com/I-Ishika-012/I-Ishika-012/blob/main/resources/Twitter_X_Icon_PNG-removebg-preview.png" width="40" /></a>
 <a href="https://linkedin.com/in/ishikaa-dutta" target="blank"><img align="center" src="https://github.com/I-Ishika-012/I-Ishika-012/blob/main/resources/linked-in-alt.svg" alt="ishikaa-dutta" height="30" width="40" /></a>
 </p>
 
