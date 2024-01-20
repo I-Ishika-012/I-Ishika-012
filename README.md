@@ -48,20 +48,18 @@
 <br/ >
 </p>
 
-#### Tech Stack
-- US NODE.JS
-- JAVASCRIPT 5
-- HTML5
-- TYPESCRIPT
-- EXPRESS.JS
-- NEXT
-- REACT
-- BOOTSTRAP
-- TAILWINDCSS
-- REDUX
-- MONGODB
-- PYTHON
-- POSTGRES
+## Tech Stack
+![](https://img.shields.io/badge/US-NODE.JS-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JAVASCRIPT%205-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TYPESCRIPT-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/REACT-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/EXPRESS.JS-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/NEXT-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/REACT-informational?style=flat&logo=<logo>&logoColor=white&color=2bbc8a)
+
 
 <!-- [![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Ishika-012)](https://github.com/anuraghazra/github-readme-stats)
 
