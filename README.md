@@ -1,3 +1,4 @@
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Ishika Dutta</h1>
 <h3 align="center">Tech Enthusiast| Learner | Explorer | CompSci Major</h3>
 <h3 align="center">A passionate developer from India</h3>
@@ -28,7 +29,7 @@
 <h3 align="left">💬Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/IshikaInnovates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishikainnovates" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishikaa-dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishikaa-dutta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishikaa-dutta" target="blank"><img align="center" src="https://github.com/I-Ishika-012/I-Ishika-012/blob/main/resources/linked-in-alt.svg" alt="ishikaa-dutta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
