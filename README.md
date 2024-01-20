@@ -48,6 +48,20 @@
 <br/ >
 </p>
 
+#### Tech Stack
+- US NODE.JS
+- JAVASCRIPT 5
+- HTML5
+- TYPESCRIPT
+- EXPRESS.JS
+- NEXT
+- REACT
+- BOOTSTRAP
+- TAILWINDCSS
+- REDUX
+- MONGODB
+- PYTHON
+- POSTGRES
 
 <!-- [![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Ishika-012)](https://github.com/anuraghazra/github-readme-stats)
 
