@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ishika Dutta</h1>
-<h3 align="center">Tech Enthusiast| Learner | Explorer | CompSci Major</h3>
+<h3 align="center">Tech Enthusiast | Learner | Explorer | CompSci Major</h3>
 <h3 align="center">A passionate developer from India</h3>
 
 
