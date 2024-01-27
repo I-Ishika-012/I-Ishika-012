@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-- 🔭 I’m currently working on a [Python Project](Python Projects/quickart)
+- 🔭 I’m currently working on ([Python Projects/quickart](https://github.com/I-Ishika-012/Projects/tree/main/Python%20Projects/quickart))
 
 - 🌱 I’m currently learning **Python, Web Dev, AI, DSA**
 
