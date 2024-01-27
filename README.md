@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ishika Dutta</h1>
 <h3 align="center">Tech Enthusiast | Learner | Explorer | CompSci Major</h3>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 
 - 🔭 I’m currently working on ([Python Projects/quickart](https://github.com/I-Ishika-012/Projects/tree/main/Python%20Projects/quickart))
