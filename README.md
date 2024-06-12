@@ -44,5 +44,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-ishika-012&" alt="i-ishika-012" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=I-Ishika-012&theme=onedark)](https://github.com/I-Ishika-012/github-profile-trophy)
 
 
