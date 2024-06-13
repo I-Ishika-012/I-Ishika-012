@@ -13,11 +13,13 @@
 - 💬 Ask me about **React, Redux, Node js, Express js, Mongodb, mongoose, Javascript, TypeScript, MERN Stack, HTML/CSS**
 
 - ⚡ Fun fact **Am mean without good food and great coffee!**
+  
+- 📫 Reach me at **i.ishikadutta@gmail.com**
 
 <!-- 🤝 I’m looking for help with [xx](yy)
 
  👨‍💻 All of my projects are available at [zzz](zzz)
-  📫 How to reach me **i.ishikadutta@gmail.com**
+  
 
 📄 Know about my experiences [xxx](xxx)-->
 
