@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on FullStack Projects <!--(yy)-->
 
-- 💬 Ask me about **React, Redux, Node js, Express js, Mongodb, mongoose, Javascript, TypeScript, MERN Stack, HTML/CSS**
+- 💬 Ask me about **React, Redux, Node js, Express js, Mongodb, Mongoose, Javascript, TypeScript, MERN Stack, HTML/CSS**
 
 - ⚡ Fun fact **Am mean without good food and great coffee!**
   
