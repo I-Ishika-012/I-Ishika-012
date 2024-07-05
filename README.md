@@ -1,4 +1,4 @@
-
+([](https://github.com/I-Ishika-012/I-Ishika-012/blob/main/resources/Ishika%20dutta.png))
 <h1 align="center">Hi 👋, I'm Ishika Dutta</h1>
 <h3 align="center">Tech Enthusiast | Learner | Explorer | CompSci Major</h3>
 <h3 align="center">A passionate Software Developer from India</h3>
