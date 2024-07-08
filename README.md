@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on ([Synthia](https://github.com/I-Ishika-012/Synthia/tree/main0)) and ([Nexus](https://github.com/I-Ishika-012/Nexus))
 
+- 🛠️ Fixing minor bugs on ([Blogit](https://github.com/I-Ishika-012/Projects/tree/main/Web%20Dev%20Projects/BlogIt))
+
 - 🌱 I’m currently learning **Python, Web Dev, AI, DSA**
 
 - 👯 I’m looking to collaborate on FullStack Projects <!--(yy)-->
