@@ -18,7 +18,7 @@
   
 - 📫 Reach me at **i.ishikadutta@gmail.com**
 
-- 👩‍💻 Associate @ Cloud Counselage Pvt. Ltd.
+- 👩‍💻 Associate @ Dezors Service & Consultancy
 
 <!-- 🤝 I’m looking for help with [xx](yy)
 
