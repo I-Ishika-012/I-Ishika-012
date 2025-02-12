@@ -18,7 +18,7 @@
   
 - 📫 Reach me at **i.ishikadutta@gmail.com**
 
-- 👩‍💻 Full Stack Project Intern @ Cloud Counselage Pvt. Ltd.
+- 👩‍💻 Associate @ Cloud Counselage Pvt. Ltd.
 
 <!-- 🤝 I’m looking for help with [xx](yy)
 
