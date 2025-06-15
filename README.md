@@ -18,7 +18,7 @@
   
 - 📫 Reach me at **i.ishikadutta@gmail.com**
 
-- 👩‍💻 Associate @ Dezors Service & Consultancy
+- 👩‍💻 DevOps Intern @ Celebal Technologies
 
 <!-- 🤝 I’m looking for help with [xx](yy)
 
