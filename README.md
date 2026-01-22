@@ -18,7 +18,7 @@
   
 - 📫 Reach me at **i.ishikadutta@gmail.com**
 
-- 👩‍💻 DevOps Intern @ Celebal Technologies
+- 👩‍💻 Trainee @ Sogeti
 
 <!-- 🤝 I’m looking for help with [xx](yy)
 
